@@ -1,11 +1,10 @@
+<p align="center">
+  <img src="./GITHUB.png" alt="Banner" style="max-width: 100%; height: auto;" />
+</p>
+
 <h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; letter-spacing: 0.12em;">
-  👋 Hey there, I'm <span style="color: violet; font-weight: 900; text-shadow: 2px 2px 6px #a020f0;">Calyx</span>! 
+  👋 Hey there, I'm <span style="color: violet; font-weight: 900; text-shadow: 2px 2px 6px #a020f0;">Calyx</span>!<br />
 </h1>
-
-<h3 align="center" style="font-style: italic; color:#8A2BE2;">
-  Frontend Designer + Graphic Designer 
-</h3>
-
 
 
 <hr style="border: 1px dashed violet; margin: 2rem auto; max-width: 90%;" />
