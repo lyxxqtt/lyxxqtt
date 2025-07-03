@@ -1,40 +1,47 @@
-<p align="center">
-  <img src="./GITHUB.png" alt="Banner" style="max-width: 100%; height: auto;" />
+<!-- Banner Image -->
+<p align="center" style="margin-bottom: 2rem;">
+  <img src="./GITHUB.png" alt="Banner" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 6px 15px rgba(138, 43, 226, 0.3);" />
 </p>
 
-<h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; letter-spacing: 0.12em;">
-  👋 Hey there, I'm <span style="color: violet; font-weight: 900; text-shadow: 2px 2px 6px #a020f0;">Calyx</span>!<br />
+<!-- Main Heading -->
+<h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; letter-spacing: 0.12em; margin-bottom: 0.25rem;">
+  👋 Hey there, I'm <span style="color: violet; font-weight: 900; text-shadow: 2px 2px 6px #a020f0;">Calyx</span>!
 </h1>
 
+<!-- Subtitle (small and italic) -->
+<p align="center" style="color:#8A2BE2; font-style: italic; font-size: 0.9rem; margin-top: 0; margin-bottom: 2rem;">
+  Frontend Designer + Graphic Designer
+</p>
 
 <hr style="border: 1px dashed violet; margin: 2rem auto; max-width: 90%;" />
 
-<blockquote align="center" style="font-size: 1.25rem; color:#D8BFD8; font-family: 'Courier New', Courier, monospace;">
-  <em>"Code is like humor. When you have to explain it, it’s bad."
-— Cory House</em>
+<!-- Quote -->
+<blockquote align="center" style="font-size: 1.25rem; color:#D8BFD8; font-family: 'Courier New', Courier, monospace; max-width: 700px; margin: 2rem auto;">
+  <em>"Code is like humor. When you have to explain it, it’s bad." — Cory House</em>
 </blockquote>
 
-<p align="center" style="font-weight: bold; font-size: 1.1rem; max-width: 700px; margin: 2rem auto;">
+<!-- Intro Paragraph -->
+<p align="center" style="font-weight: bold; font-size: 1.1rem; max-width: 700px; margin: 2rem auto; color: #4b0082; line-height: 1.6;">
   I’m <span style="color: #9b30ff;">Calyx James</span>, a Grade 12 MAWD-ICT student, dreamer, and self-taught 
-  <span style="color:#ba55d3;">freelance graphic designer and frontend developer</span>.
-  I specialize in crafting <strong>visually engaging</strong>,  
+  <span style="color:#ba55d3;">freelance graphic designer and frontend developer</span>. I specialize in crafting <strong>visually engaging</strong>,  
   <strong>user-focused</strong> websites that bring ideas to life through clean design and elegant code.
 </p>
 
-
 <hr style="border: 1px dotted violet; margin: 3rem auto; max-width: 90%;" />
 
+<!-- Expertise Section -->
 <h2 style="color: #8A2BE2; font-family: 'Verdana', sans-serif; letter-spacing: 0.12em; text-align: center; margin-bottom: 1rem;">
   🎯 Expertise
 </h2>
-<p style="max-width: 600px; margin: 0 auto; font-size: 1.15rem; line-height: 1.7; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: justify; color: #333;">
+<p style="max-width: 600px; margin: 0 auto 3rem auto; font-size: 1.15rem; line-height: 1.7; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: justify; color: #333;">
   Looking back, I remember how my interest in designing websites began during my Grade 11 year. At first, it was just curiosity—wondering how those beautiful, interactive websites I visited were actually built. I started experimenting with basic HTML and CSS, and quickly found myself captivated by how small changes in code could completely transform the look and feel of a page. It felt like magic. Around the same time, I realized my love for graphic design had actually started earlier, in Grade 10, when I began creating posters and digital art for school projects and community events. Those experiences taught me the importance of balance between creativity and structure. Design isn't just about making things look good—it’s about communicating ideas clearly and beautifully. Now, as a Grade 11 student and an aspiring freelancer, I find joy in combining these two passions—coding and designing—to create websites that are not only functional but also visually engaging. Every project feels like a new opportunity to learn, grow, and express myself. I’m excited about the future and eager to see where this journey takes me.
 </p>
 
-<h2 style="color:#8A2BE2; font-family: 'Verdana', sans-serif; letter-spacing: 0.1em; text-align: center; margin-bottom: 1rem;">
+<!-- Techstack & Tools -->
+<h2 style="color:#8A2BE2; font-family: 'Verdana', sans-serif; letter-spacing: 0.1em; text-align:center; margin-bottom: 1rem;">
   💻 TECHSTACK & Tools
 </h2>
-<p align="center" style="max-width: 800px; margin: auto;">
+<p align="center" style="max-width: 800px; margin: auto 0 3rem 0;">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -48,56 +55,56 @@
   <img src="https://img.shields.io/badge/EmailJS-D14836?style=for-the-badge&logo=emailjs&logoColor=white" alt="EmailJS" />
 </p>
 
-
-<h2 align="center" style="color:#8A2BE2; font-family:'Verdana', sans-serif; letter-spacing: 0.1em;">
-  ⚙️ Featured
+<!-- Featured Projects -->
+<h2 align="center" style="color:#8A2BE2; font-family:'Verdana', sans-serif; letter-spacing: 0.1em; margin-bottom: 1rem;">
+  ⚙️ Featured Projects
 </h2>
 
-<div align="center">
-
-<table style="width:90%; border-collapse:collapse; text-align:left; margin:auto;">
-  <thead>
-    <tr style="background-color:#8A2BE2; color:white;">
-      <th style="padding:12px; border: 1px solid #ccc;">Project</th>
-      <th style="padding:12px; border: 1px solid #ccc;">What I Brewed</th>
-      <th style="padding:12px; border: 1px solid #ccc;">Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color:#f9f6ff;">
-      <td style="padding:12px; border: 1px solid #ccc;">
-        <a href="https://lyxdevportfolio.netlify.app" target="_blank" style="color:#4B0082; font-weight:bold; text-decoration:none;">
-          PERSONAL Portfolio Website
-        </a>
-      </td>
-      <td style="padding:12px; border: 1px solid #ccc;">Showcasing my creativity GRAPHIC DESIGN AND OTHER WORKS</td>
-      <td style="padding:12px; border: 1px solid #ccc;">HTML, CSS, JS</td>
-    </tr>
-    <tr style="background-color:#f0ebff;">
-      <td style="padding:12px; border: 1px solid #ccc;">
-        <a href="https://graphia.netlify.app" target="_blank" style="color:#4B0082; font-weight:bold; text-decoration:none;">
-          Graphia
-        </a>
-      </td>
-      <td style="padding:12px; border: 1px solid #ccc;">Started to make a startup site</td>
-      <td style="padding:12px; border: 1px solid #ccc;">HTML, Tailwind CSS, CSS, JS</td>
-    </tr>
-    <tr style="background-color:#f9f6ff;">
-      <td style="padding:12px; border: 1px solid #ccc;">
-        <a href="https://lyxdevcobrakai.netlify.app" target="_blank" style="color:#4B0082; font-weight:bold; text-decoration:none;">
-          Cobra Kai Fan Site
-        </a>
-      </td>
-      <td style="padding:12px; border: 1px solid #ccc;">A fan site dedicated to Cobra Kai series</td>
-      <td style="padding:12px; border: 1px solid #ccc;">HTML, CSS, JS</td>
-    </tr>
-  </tbody>
-</table>
-
+<div align="center" style="overflow-x:auto; max-width: 95vw;">
+  <table style="width: 90%; border-collapse: collapse; text-align: left; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    <thead>
+      <tr style="background-color: #8A2BE2; color: white;">
+        <th style="padding: 12px; border: 1px solid #ccc;">Project</th>
+        <th style="padding: 12px; border: 1px solid #ccc;">What I Brewed</th>
+        <th style="padding: 12px; border: 1px solid #ccc;">Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background-color: #f9f6ff;">
+        <td style="padding: 12px; border: 1px solid #ccc;">
+          <a href="https://lyxdevportfolio.netlify.app" target="_blank" style="color: #4B0082; font-weight: bold; text-decoration: none;">
+            PERSONAL Portfolio Website
+          </a>
+        </td>
+        <td style="padding: 12px; border: 1px solid #ccc;">Showcasing my creativity GRAPHIC DESIGN AND OTHER WORKS</td>
+        <td style="padding: 12px; border: 1px solid #ccc;">HTML, CSS, JS</td>
+      </tr>
+      <tr style="background-color: #f0ebff;">
+        <td style="padding: 12px; border: 1px solid #ccc;">
+          <a href="https://graphia.netlify.app" target="_blank" style="color: #4B0082; font-weight: bold; text-decoration: none;">
+            Graphia
+          </a>
+        </td>
+        <td style="padding: 12px; border: 1px solid #ccc;">Started to make a startup site</td>
+        <td style="padding: 12px; border: 1px solid #ccc;">HTML, Tailwind CSS, CSS, JS</td>
+      </tr>
+      <tr style="background-color: #f9f6ff;">
+        <td style="padding: 12px; border: 1px solid #ccc;">
+          <a href="https://lyxdevcobrakai.netlify.app" target="_blank" style="color: #4B0082; font-weight: bold; text-decoration: none;">
+            Cobra Kai Fan Site
+          </a>
+        </td>
+        <td style="padding: 12px; border: 1px solid #ccc;">A fan site dedicated to Cobra Kai series</td>
+        <td style="padding: 12px; border: 1px solid #ccc;">HTML, CSS, JS</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
-
-<h2 style="color:#8A2BE2; font-family: 'Verdana', sans-serif; letter-spacing: 0.1em;">🌐 SOCIAL: </h2>
+<!-- Social Section -->
+<h2 style="color:#8A2BE2; font-family: 'Verdana', sans-serif; letter-spacing: 0.1em; margin-top: 3rem; margin-bottom: 1rem; text-align:center;">
+  🌐 SOCIAL
+</h2>
 <p align="center" style="font-size: 1.2rem;">
   <a href="https://www.tiktok.com/@html.lyxxqt" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
@@ -116,16 +123,17 @@
   </a>
 </p>
 
-<br>
+<br />
 
-<h2 style="color:#8A2BE2; font-family:'Verdana', sans-serif; letter-spacing: 0.1em;">
+<!-- GitHub Stats -->
+<h2 style="color:#8A2BE2; font-family:'Verdana', sans-serif; letter-spacing: 0.1em; text-align:center;">
   📊 GitHub Stats
 </h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lyxxqtt&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<p align="center" style="margin-bottom: 1.5rem;">
+  <img src="https://github-readme-stats.vercel.app/api?username=lyxxqtt&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyxxqtt&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyxxqtt&layout=compact&theme=radical&hide_border=false" alt="Top Languages" style="max-width: 100%; height: auto;" />
 </p>
