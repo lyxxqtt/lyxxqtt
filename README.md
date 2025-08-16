@@ -1,8 +1,3 @@
-<!-- Banner Image -->
-<p align="center" style="margin-bottom: 2rem;">
-  <img src="./GITHUB.png" alt="Banner" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 6px 15px rgba(138, 43, 226, 0.3);" />
-</p>
-
 <!-- Main Heading -->
 <h1 align="center">
   👋 Hey there, I'm <span style="color: violet;">Calyx</span>!
