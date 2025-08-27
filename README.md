@@ -75,12 +75,12 @@
     <tbody>
       <tr style="background-color: #f9f6ff;">
         <td style="padding: 12px; border: 1px solid #ccc;">
-          <a href="https://lyxdevportfolio.netlify.app" target="_blank" style="color: #4B0082; font-weight: bold; text-decoration: none;">
+          <a href="https://lyxdevportfolio.vercel.app" target="_blank" style="color: #4B0082; font-weight: bold; text-decoration: none;">
             PERSONAL Portfolio Website
           </a>
         </td>
         <td style="padding: 12px; border: 1px solid #ccc;">Showcasing my creativity GRAPHIC DESIGN AND OTHER WORKS</td>
-        <td style="padding: 12px; border: 1px solid #ccc;">HTML, CSS, JS</td>
+        <td style="padding: 12px; border: 1px solid #ccc;">HTML5, CSS3, Vannila JS</td>
       </tr>
       <tr style="background-color: #f0ebff;">
         <td style="padding: 12px; border: 1px solid #ccc;">
