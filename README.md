@@ -50,10 +50,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="height: 28px;" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" style="height: 28px;" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" style="height: 28px;" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="height: 28px;" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height: 28px;" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" style="height: 28px;" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="height: 28px;" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" style="height: 28px;" />
   <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 28px;" />
   <img src="https://img.shields.io/badge/EmailJS-D14836?style=for-the-badge&logo=emailjs&logoColor=white" alt="EmailJS" style="height: 28px;" />
 </p>
@@ -81,24 +80,6 @@
         </td>
         <td style="padding: 12px; border: 1px solid #ccc;">Showcasing my creativity GRAPHIC DESIGN AND OTHER WORKS</td>
         <td style="padding: 12px; border: 1px solid #ccc;">HTML5, CSS3, Vannila JS</td>
-      </tr>
-      <tr style="background-color: #f0ebff;">
-        <td style="padding: 12px; border: 1px solid #ccc;">
-          <a href="https://graphia.netlify.app" target="_blank" style="color: #4B0082; font-weight: bold; text-decoration: none;">
-            Graphia
-          </a>
-        </td>
-        <td style="padding: 12px; border: 1px solid #ccc;">Started to make a startup site</td>
-        <td style="padding: 12px; border: 1px solid #ccc;">HTML, Tailwind CSS, CSS, JS</td>
-      </tr>
-      <tr style="background-color: #f9f6ff;">
-        <td style="padding: 12px; border: 1px solid #ccc;">
-          <a href="https://lyxdevcobrakai.netlify.app" target="_blank" style="color: #4B0082; font-weight: bold; text-decoration: none;">
-            Cobra Kai Fan Site
-          </a>
-        </td>
-        <td style="padding: 12px; border: 1px solid #ccc;">A fan site dedicated to Cobra Kai series</td>
-        <td style="padding: 12px; border: 1px solid #ccc;">HTML, CSS, JS</td>
       </tr>
     </tbody>
   </table>
