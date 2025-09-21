@@ -15,7 +15,7 @@
 <!-- Intro Paragraph -->
 <p align="center" style="font-weight: bold; font-size: 1.1rem; max-width: 90vw; margin: 2rem auto; color: #4b0082; line-height: 1.6;">
   I’m <span style="color: #9b30ff;">Calyx James</span>, a Grade 12 MAWD-ICT student with a passion for 
-  <strong>graphic design</strong> and <strong>frontend development</strong>. I love crafting clean, user-friendly websites that blend creativity and function.
+  <strong>graphic design</strong> and <strong>frontend development</strong>.
 </p>
 
 <hr style="border: 1px dotted violet; margin: 3rem auto; max-width: 90%;" />
