@@ -105,7 +105,11 @@
   <a href="mailto:lyxxqt@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="height: 28px;" />
   </a>
+  <a href="https://discord.com/users/1354697136943403160" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="height: 28px;" />
+  </a>
 </p>
+
 
 <!-- GitHub Stats -->
 <h2 style="color:#8A2BE2; font-family:'Verdana', sans-serif; letter-spacing: 0.1em; text-align:center;">
