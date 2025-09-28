@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center" style="color:#8A2BE2; font-style: italic;">
-  Frontend Designer + Graphic Designer
+  Frontend Designer + Graphic Designe
 </p>
 
 <!-- Inspiring/Funny Quote -->
