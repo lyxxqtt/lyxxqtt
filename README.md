@@ -1,6 +1,6 @@
 <!-- Profile Views -->
 <p>
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lyxxqt.visitor" alt="Profile Views" />
 </p>
 
 <!-- Main Heading -->
