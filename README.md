@@ -1,3 +1,8 @@
+<!-- Profile Views Counter -->
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lyxxqt.visitor" alt="Profile Views" />
+</p>
+
 <!-- Main Heading -->
 <h1 align="center">
   👋 Hello World, I'm <span style="color: violet;">Calyx</span>!
@@ -7,7 +12,7 @@
   Frontend Designer + Graphic Designer
 </p>
 
-<!-- Inspiring/Funny Quote -->
+<!-- Quote -->
 <blockquote align="center" style="font-size: 1.1rem; color:#D8BFD8; font-style: italic; margin-top: 1rem; padding: 0 1rem;">
   "Code is like humor. When you have to explain it, it’s bad." – Cory House
 </blockquote>
@@ -40,7 +45,7 @@
   Today, as a student and aspiring freelancer, I find joy in combining these two skills—visual design and frontend development—to craft websites that are both functional and visually compelling. Each project is a new opportunity to grow, push boundaries, and bring ideas to life through code and creativity. I’m excited to keep learning, building, and shaping the path ahead.
 </p>
 
-<!-- Techstack & Tools -->
+<!-- Techstack -->
 <h2 style="color:#8A2BE2; font-family: 'Verdana', sans-serif; letter-spacing: 0.1em; text-align:center; margin-bottom: 1rem;">
   💻 TECHSTACK & Tools
 </h2>
@@ -110,11 +115,15 @@
   </a>
 </p>
 
-
 <!-- GitHub Stats -->
 <h2 style="color:#8A2BE2; font-family:'Verdana', sans-serif; letter-spacing: 0.1em; text-align:center;">
   📊 GitHub Stats
 </h2>
+<!-- GitHub Contribution Graph -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/8A2BE2/lyxxqtt" alt="GitHub chart" />
+</p>
+
 
 <p align="center" style="margin-bottom: 1.5rem;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyxxqtt&theme=radical" />
