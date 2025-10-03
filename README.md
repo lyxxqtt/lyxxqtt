@@ -119,11 +119,6 @@
 <h2 style="color:#8A2BE2; font-family:'Verdana', sans-serif; letter-spacing: 0.1em; text-align:center;">
   📊 GitHub Stats
 </h2>
-<!-- GitHub Contribution Graph -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/8A2BE2/lyxxqtt" alt="GitHub chart" />
-</p>
-
 
 <p align="center" style="margin-bottom: 1.5rem;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyxxqtt&theme=radical" />
