@@ -5,7 +5,7 @@
 
 <!-- Main Heading -->
 <h1 align="center">
-  👋 Hello World, I'm <span style="color: violet;">Calyx</span>!
+  👋 Hello World, I'm Calyx!
 </h1>
 
 <p align="center" style="color:#8A2BE2; font-style: italic;">
