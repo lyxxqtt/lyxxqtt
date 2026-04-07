@@ -118,7 +118,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyxxqtt&theme=radical" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyxxqtt&layout=compact&theme=radical&hide_border=false" alt="Top Languages" style="max-width: 100%; height: auto;" />
-</p>
