@@ -1,6 +1,6 @@
  <!-- Main Heading -->
 <h1 align="center">
-  👋 Hello World, I'm Calyx
+  👋 Hello World, I'm Caly
  
 </h1>
 
