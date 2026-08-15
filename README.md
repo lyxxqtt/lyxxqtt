@@ -106,12 +106,26 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="height: 28px;" />
   </a>
 </p>
-
-<!-- GitHub Stats -->
-<h2>
-  📊 GitHub Stats
-</h2>
+<!-- GitHub -->
+<h2 align="center">📊 GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyxxqtt&theme=radical" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=lyxxqtt&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=lyxxqtt&layout=compact&theme=radical&hide_border=true&langs_count=6"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=lyxxqtt&theme=redical&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
