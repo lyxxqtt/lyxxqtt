@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Frontend Designer + Graphic Designer
+  Frontend Designer + Graphic Designer!
 </p>
 
 <!-- Quote -->
