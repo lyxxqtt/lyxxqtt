@@ -135,7 +135,7 @@
   <strong>Microsoft Certified: Azure AI Fundamentals</strong><br/>
   Issued by Microsoft
   <br/><br/>
-  <a href="PASTE-YOUR-CREDENTIAL-URL-HERE" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.credly.com/users/calyx-james-molina" target="_blank" rel="noopener noreferrer">
     🔗 View Verified Credential
   </a>
 </p>
