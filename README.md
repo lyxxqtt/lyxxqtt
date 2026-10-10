@@ -116,27 +116,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyxxqtt&theme=radical" />
 </p>
-
-<!-- Certifications -->
-<h2 align="center">
-  🏆 Certifications & Credentials
-</h2>
-
-<p align="center">
-  <a href="https://www.credly.com/users/lyxqt" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"
-      alt="Microsoft Certified: Azure AI Fundamentals"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Microsoft Certified: Azure AI Fundamentals</strong><br/>
-  Issued by Microsoft
-  <br/><br/>
-  <a href="https://www.credly.com/users/lyxqt" target="_blank" rel="noopener noreferrer">
-    🔗 View Verified Credential
-  </a>
-</p>
-
