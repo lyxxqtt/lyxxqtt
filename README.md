@@ -123,7 +123,7 @@
 </h2>
 
 <p align="center">
-  <a href="PASTE-YOUR-CREDENTIAL-URL-HERE" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.credly.com/users/lyxqt" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"
       alt="Microsoft Certified: Azure AI Fundamentals"
@@ -135,7 +135,7 @@
   <strong>Microsoft Certified: Azure AI Fundamentals</strong><br/>
   Issued by Microsoft
   <br/><br/>
-  <a href="https://www.credly.com/users/calyx-james-molina" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.credly.com/users/lyxqt" target="_blank" rel="noopener noreferrer">
     🔗 View Verified Credential
   </a>
 </p>
